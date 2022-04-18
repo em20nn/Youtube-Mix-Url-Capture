@@ -33,11 +33,11 @@ py -m pip install wget
 
 in Windows Powershell
 ```
-~\Youtube-Mix-Url-Capture> py .\youtube_mix_urls.py 
+~\Youtube-Mix-Url-Capture-main> py .\youtube_mix_urls.py 
 ```
 in CMD
 ```
-~\Youtube-Mix-Url-Capture> py youtube_mix_urls.py 
+~\Youtube-Mix-Url-Capture-main> py youtube_mix_urls.py 
 ```
 
 ### Arguments
